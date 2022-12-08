@@ -1,4 +1,4 @@
-# Scraping-Econ-Job-Market-Candidates
+# Scraping-Econ-Job-Market-Candidates Names
 Basic code for scraping an econ dept's job market candidate list. Uses Spacy.
 
 Scrapes text from website, then uses Spacy module to identify names. 
